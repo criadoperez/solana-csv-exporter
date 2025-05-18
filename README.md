@@ -99,4 +99,4 @@ Specify an output file:
 
 ## License
 
-This project is free and open source software, released under the GNU AGPL v3 license. 
+This project is free and open source software, released under the GNU GPL v3 license. 
